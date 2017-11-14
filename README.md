@@ -3,6 +3,6 @@ Coding Puzzles
 
 >rtoa.py
 
-  +Function to convert roman to arabic digits
+  + Function to convert roman to arabic digits
 ***
 

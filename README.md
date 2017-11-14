@@ -1,18 +1,21 @@
 # General
 Coding Puzzles
 
-```rtoa.py
+```
+rtoa.py
 
-> Function to convert roman to arabic digits
+ > Function to convert roman to arabic digits
 ```
 
-```conference_scheduler.py
+```
+conference_scheduler.py
 
-> Program to schedule 
+ > Program to schedule 
 ```
 
-```flipworld.py
+```
+flipworld.py
 
-> Flip World Game
+ > Flip World Game
 ```
 

@@ -51,3 +51,10 @@ allcharacterscheck.py
  > Checks for presence of selected characters in a given string
 ```
 
+
+```
+cowsnbulls.py
+
+ > Cows & Bulls Game using lowercase characters
+```
+

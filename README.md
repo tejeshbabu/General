@@ -44,3 +44,10 @@ customsort.py
 	and so on.
 ```
 
+
+```
+allcharacterscheck.py
+
+ > Checks for presence of selected characters in a given string
+```
+

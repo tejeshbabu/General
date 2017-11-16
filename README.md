@@ -19,3 +19,10 @@ flipworld.py
  > Flip World Game
 ```
 
+
+```
+digitsinbook.py
+
+ > Prints no of occurences for each digit from page numbers
+```
+

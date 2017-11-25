@@ -58,3 +58,11 @@ cowsnbulls.py
  > Cows & Bulls Game using lowercase characters
 ```
 
+
+
+```
+gardenPath.py
+
+ > Gets the path distance to cut down all infected plants in a garden
+```
+

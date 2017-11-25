@@ -59,10 +59,15 @@ cowsnbulls.py
 ```
 
 
-
 ```
 gardenPath.py
 
  > Gets the path distance to cut down all infected plants in a garden
 ```
 
+
+```
+rectangles.py
+
+ > Gets the nunmber of rectangles that can be formed from a given set of vertices in a cartesian plane
+```

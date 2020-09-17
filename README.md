@@ -75,12 +75,14 @@ rectangles.py
 
 ```
 knighttour_bt.py
+
  > Knights tour to all checks in a chess board
 ```
 
 
 ```
 nqueens.py
+
  > N Queens to place on NxN chessboard without killing any other
 ```
 
@@ -88,10 +90,12 @@ nqueens.py
 
 ```
 levenshteindistance.py
+
  > Levenshtein distance between two words is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other
 ```
 
 ```
 timeConversion.py
+
  > timeConversion from 12 hours to 24 hours method.
 ```

@@ -1,5 +1,6 @@
 # nQueens Problem
 
+
 def isSafe(b,r,c):
 	N=len(b)
 	for y in range(c,-1,-1):

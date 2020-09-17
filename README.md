@@ -71,3 +71,27 @@ rectangles.py
 
  > Gets the nunmber of rectangles that can be formed from a given set of vertices in a cartesian plane
 ```
+
+
+```
+knighttour_bt.py
+Knights tour to all checks in a chess board
+```
+
+
+```
+nqueens.py
+N Queens to place on NxN chessboard without killing any other
+```
+
+
+
+```
+levenshteindistance.py
+Levenshtein distance between two words is the minimum number of single-character edits (insertions, deletions or substitutions) required to change one word into the other
+```
+
+```
+timeConversion.py
+#timeConversion from 12 hours to 24 hours method.
+```
